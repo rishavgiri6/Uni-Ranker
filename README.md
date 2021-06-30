@@ -1,4 +1,4 @@
-# ranklistcreator
+# Uni Ranker
 Collects data from my college (HITK) website to create a multi-tiered ranklist.
 
 ## Completed and Working features
