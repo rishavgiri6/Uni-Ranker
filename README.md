@@ -1,5 +1,5 @@
 # ranklistcreator
-Collects data from website to create a ranklist
+Collects data from my college (HITK) website to create a multi-tiered ranklist.
 
 ## Completed and Working features
 *Please raise an issue instantly if you find something wrong with these features*
